@@ -211,7 +211,7 @@ app.post("/login", (req, res) => {
 5. Run index.js
 
 ```sh
-nodemon index
+npx nodemon index
 ```
 If all is correct you should see:
 ```sh
